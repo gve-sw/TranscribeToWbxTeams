@@ -1,0 +1,2 @@
+GOOGLE_APPLICATION_CREDENTIALS="<path to xxxx.json>"
+WEBEX_TEAMS_ACCESS_TOKEN="xxxxxxxx"
