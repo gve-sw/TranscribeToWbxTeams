@@ -8,7 +8,7 @@ cryptography==2.7
 ipaddr==2.2.0
 keyring==19.2.0
 mock==3.0.5
-numpy==1.17.2
+numpy==1.22.0
 google_api_python_client==1.7.11
 ordereddict==1.1
 repr==0.3.1
