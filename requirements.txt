@@ -1,5 +1,5 @@
 PyAudio==0.2.11
-lxml==4.3.0
+lxml==4.9.1
 Cython==0.29.13
 Dialog==0.2.0
 pyOpenSSL==19.0.0
